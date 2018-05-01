@@ -1,4 +1,4 @@
-** CHEXBOX OPEN-SCOURCE LICENSE
+**CHEXBOX OPEN-SCOURCE LICENSE
                        Version 1, 16 April, 2018.
 
 Inspired somewhat by the GNU license 3. Made by chexbox and infinitytec
