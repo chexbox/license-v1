@@ -1,4 +1,4 @@
-CHEXBOX OPEN-SCOURCE LICENSE
+** CHEXBOX OPEN-SCOURCE LICENSE
                        Version 1, 16 April, 2018.
 
 Inspired somewhat by the GNU license 3. Made by chexbox and infinitytec
@@ -14,7 +14,7 @@ The original programmer(s) and publisher(s) cannot prevent any specific individu
 Anyone copying this code must list which version of the original code and must list or summarize changes made to said version.  
 
 This software must not have a fee to use, copy, or edit.  
-Advertisement may be used to cover costs of running this software.  
+Advertisements may be used to cover costs of running this software.  
 You may not, in any way shape or form, prevent anyone from using this software because of an open source advertisement blocker (such as uBlock Origin).   
 
 You must license the entire work and any modified versions under this License.  
